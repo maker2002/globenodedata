@@ -1,0 +1,58 @@
+[
+ {
+   "name": "US",
+   "country": "美国",
+   "type": "电信优化CN2",
+   "lat": 33.9,
+   "lon": -118.2,
+   "elevation": 1
+ },
+ {
+   "name": "HK",
+   "country": "香港",
+   "type": "联通优化",
+   "lat": 22.3,
+   "lon": 114.1,
+   "elevation": 3
+ },
+ {
+   "name": "KR",
+   "country": "韩国",
+   "type": "北方优化",
+   "lat": 37.8,
+   "lon": 127.7,
+   "elevation": 2
+ },
+ {
+   "name": "JP",
+   "country": "日本",
+   "type": "华北优化",
+   "lat": 35.5,
+   "lon": 139.6,
+   "elevation": 2
+ },
+ {
+   "name": "TW",
+   "country": "台湾",
+   "type": "东部优化",
+   "lat": 24.0,
+   "lon": 120.4,
+   "elevation": 1
+ },
+ {
+   "name": "RU",
+   "country": "俄罗斯",
+   "type": "电信优化CN2",
+   "lat": 55.7,
+   "lon": 37.6,
+   "elevation": 1
+ },
+ {
+   "name": "IN",
+   "country": "印度",
+   "type": "游戏专用",
+   "lat": 19.1,
+   "lon": 72.8,
+   "elevation": 1
+ }
+]
