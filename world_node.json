@@ -8,7 +8,7 @@
    "elevation": 0
  },
  {
-   "name": "US",
+   "name": "LA",
    "country": "美国",
    "type": "洛杉矶-全网优化",
    "lat": 33.9,
@@ -16,17 +16,17 @@
    "elevation": 1
  },
  {
-   "name": "US",
-   "country": "美国",
-   "type": "凤凰城-电信/联通优化",
+   "name": "PHX",
+   "country": "凤凰城",
+   "type": "电信/联通优化",
    "lat": 33.6,
    "lon": -112.1,
    "elevation": 1
  },
  {
-   "name": "US",
-   "country": "美国",
-   "type": "圣何塞-联通优化",
+   "name": "SJ",
+   "country": "圣何塞",
+   "type": "联通优化",
    "lat": 37.3,
    "lon": -121.9,
    "elevation": 1
@@ -48,17 +48,17 @@
    "elevation": 3
  },
  {
-   "name": "JP",
-   "country": "日本",
-   "type": "东京-北方优化",
+   "name": "TKY",
+   "country": "东京",
+   "type": "北方优化",
    "lat": 35.5,
    "lon": 139.6,
    "elevation": 2
  },
  {
-   "name": "JP",
-   "country": "日本",
-   "type": "大阪-全网优化",
+   "name": "OSA",
+   "country": "大阪",
+   "type": "全网优化",
    "lat": 34.6,
    "lon": 135.4,
    "elevation": 2
